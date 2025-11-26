@@ -6,3 +6,10 @@ This github repository consists of 2 AI projects that one of them is machine lea
 
 TURKISH
 Bu github deposunda 4. sınıfın birinci dönemi yapmış olduğum birisi makine öğrenmesi birisi de CNN uygulaması olan iki tane yapay zeka projesi verisetleri ile birlikte bulunmaktadır. Projenin ana mantığı farklı modeller kullanarak yapay zeka altyapılarını batch size, epoch, farklı modelleri ve holdout/KNN gibi farklı veriseti ayırma yöntemleri ile test edip karşılaştırmaktır. Kullanıcı arayüzünde farklı seçenekler bulunmakta, hazır modeller kullanılarak bir tahmin yapılmak istendiğinde veya yeni bir model eğitildiğinde Doğruluk değerleri, Karışıklık matrisi ve Kayıp değerlerini gösteren grafikleri de görüntüleyebiliyorsunuz ve isterseniz modellerle birlikte grafikleri de kaydedebiliyorsunuz.
+
+Forest Fire Detection CNN Project
+<img width="1920" height="1080" alt="Screenshot_24" src="https://github.com/user-attachments/assets/b7ff0cfd-82b6-4a99-b761-d151d45651b4" />
+
+Diabetes Detection Machine Learning Project
+<img width="1920" height="1080" alt="Screenshot_23" src="https://github.com/user-attachments/assets/f7e15597-1a62-4b5e-8fa2-0736d3f87c50" />
+<img width="1920" height="1080" alt="Screenshot_22" src="https://github.com/user-attachments/assets/7fd7f5c2-a177-4e6e-852f-d6403032f661" />
